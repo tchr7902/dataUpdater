@@ -8,7 +8,7 @@ This script will first connect to an instance of a SnipeIT MySQL database. Then,
 
 ## Getting Started
 
-Create a .env file and create your own credentials to access the database.
+Create a .env file and create your own credentials to access the database.\
 Run 'python update_google_sheet.py' and sit back and relax!
 
 ### Dependencies
@@ -17,9 +17,7 @@ gpsread, oauth, mysql.connector, dotenv
 
 ## Author
 
-tchr7902
-Trevor Christensen 
-[Gmail](trevorchristensen3405@gmail.com)
+tchr7902\Trevor Christensen\[Gmail](trevorchristensen3405@gmail.com)
 
 ## License
 
